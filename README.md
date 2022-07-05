@@ -6,4 +6,4 @@ Progress Tracker:
 
 **Total: 1/100**
 
-*Last Updated: 7/5/22*
+*Last Updated: July 5*
