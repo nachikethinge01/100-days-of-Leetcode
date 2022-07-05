@@ -1,2 +1,7 @@
 # 100-days-of-Leetcode
-Starting July 5.. 100 Days of Leetcode problems
+Progress Tracker:
+- Easy: 1/40
+- Medium: 0/35
+- Hard: 0/25
+
+**Total: 1/100**
