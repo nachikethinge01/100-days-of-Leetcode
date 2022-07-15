@@ -1,9 +1,9 @@
 # 100-days-of-Leetcode
 Progress Tracker:
-- Easy: 5/40
-- Medium: 3/35
-- Hard: 1/25
+- Easy: 5/40 -- 12.5%
+- Medium: 4/35 -- 11.4% 
+- Hard: 1/25 -- 4%
 
-**Total: 9/100**
+**Total: 10/100** 
 
-*Last Updated: July 13*
+*Last Updated: July 14*
